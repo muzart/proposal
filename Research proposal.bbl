@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{kuryazov+2013}
+D.~Kuryazov, A.~Solsbach, and A.~Winter.
+\newblock Towards versioning systainability reports.
+\newblock Number 05/2013, Oldenburg, 2013. Carl von Ossietzky University,
+  Oldenburg, Software-Engineering.
+
+\bibitem{kuryazov2014representing}
+D.~Kuryazov and A.~Winter.
+\newblock Representing model differences by delta operations.
+\newblock In {\em EDOC Workshops}, pages 211--220, 2014.
+
+\end{thebibliography}
