@@ -1,14 +1,104 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{kuryazov+2013}
-D.~Kuryazov, A.~Solsbach, and A.~Winter.
-\newblock Towards versioning systainability reports.
-\newblock Number 05/2013, Oldenburg, 2013. Carl von Ossietzky University,
-  Oldenburg, Software-Engineering.
+\bibitem{anumba2002collaborative}
+C.~Anumba, O.~Ugwu, L.~Newnham, and A.~Thorpe.
+\newblock Collaborative design of structures using intelligent agents.
+\newblock {\em Automation in construction}, 11(1):89--103, 2002.
 
-\bibitem{kuryazov2014representing}
+\bibitem{barjis2008importance}
+J.~Barjis.
+\newblock The importance of business process modeling in software systems
+  design.
+\newblock {\em Science of Computer Programming}, 71(1):73--87, 2008.
+
+\bibitem{boehm2001developing}
+B.~Boehm, P.~Grunbacher, and R.~O. Briggs.
+\newblock Developing groupware for requirements negotiation: lessons learned.
+\newblock {\em IEEE software}, 18(3):46--55, 2001.
+
+\bibitem{booch2005unified}
+G.~Booch.
+\newblock {\em The unified modeling language user guide}.
+\newblock Pearson Education India, 2005.
+
+\bibitem{brooks2006some}
+R.~Brooks.
+\newblock Some thoughts on conceptual modelling: performance, complexity and
+  simplification.
+\newblock In {\em Proceedings of the 2006 OR Society Simulation Workshop},
+  pages 28--29, 2006.
+
+\bibitem{cera2004role}
+C.~D. Cera, T.~Kim, J.~Han, and W.~C. Regli.
+\newblock Role-based viewing envelopes for information protection in
+  collaborative modeling.
+\newblock {\em Computer-Aided Design}, 36(9):873--886, 2004.
+
+\bibitem{cook2005modelling}
+C.~Cook and N.~Churcher.
+\newblock Modelling and measuring collaborative software engineering.
+\newblock In {\em Proceedings of the Twenty-eighth Australasian conference on
+  Computer Science-Volume 38}, pages 267--276. Australian Computer Society,
+  Inc., 2005.
+
+\bibitem{kuryazov2015collaborative}
 D.~Kuryazov and A.~Winter.
-\newblock Representing model differences by delta operations.
-\newblock In {\em EDOC Workshops}, pages 211--220, 2014.
+\newblock Collaborative modeling empowered by modeling deltas.
+\newblock In {\em Proceedings of the 3rd International Workshop on (Document)
+  Changes: modeling, detection, storage and visualization}, pages 1--6. ACM,
+  2015.
+
+\bibitem{kvan2000collaborative}
+T.~Kvan.
+\newblock Collaborative design: what is it?
+\newblock {\em Automation in construction}, 9(4):409--415, 2000.
+
+\bibitem{maher1996experimental}
+M.~L. Maher, A.~Cicognani, and S.~Simoff.
+\newblock An experimental study of computer mediated collaborative design.
+\newblock In {\em Enabling Technologies: Infrastructure for Collaborative
+  Enterprises, 1996. Proceedings of the 5th Workshop on}, pages 268--273. IEEE,
+  1996.
+
+\bibitem{nicolaescu2013browser}
+P.~Nicolaescu, M.~Derntl, and R.~Klamma.
+\newblock Browser-based collaborative modeling in near real-time.
+\newblock In {\em Collaborative Computing: Networking, Applications and
+  Worksharing (Collaboratecom), 2013 9th International Conference Conference
+  on}, pages 335--344. IEEE, 2013.
+
+\bibitem{renger2008challenges}
+M.~Renger, G.~L. Kolfschoten, and G.-J. De~Vreede.
+\newblock Challenges in collaborative modelling: a literature review and
+  research agenda.
+\newblock {\em International Journal of Simulation and Process Modelling},
+  4(3-4):248--263, 2008.
+
+\bibitem{robinson2008conceptual}
+S.~Robinson.
+\newblock Conceptual modelling for simulation part i: definition and
+  requirements.
+\newblock {\em Journal of the operational research society}, 59(3):278--290,
+  2008.
+
+\bibitem{tang2004agent}
+D.~Tang.
+\newblock An agent-based collaborative design system to facilitate active
+  die-maker involvement in stamping part design.
+\newblock {\em Computers in Industry}, 54(3):253--271, 2004.
+
+\bibitem{vennix1992model}
+J.~A. Vennix, D.~F. Andersen, G.~P. Richardson, and J.~Rohrbaugh.
+\newblock Model-building for group decision support: issues and alternatives in
+  knowledge elicitation.
+\newblock {\em European Journal of Operational Research}, 59(1):28--41, 1992.
+
+\bibitem{young2010codesign}
+J.~young Bang, D.~Popescu, G.~Edwards, N.~Medvidovic, N.~Kulkarni, G.~M. Rama,
+  and S.~Padmanabhuni.
+\newblock Codesign: a highly extensible collaborative software modeling
+  framework.
+\newblock In {\em Software Engineering, 2010 ACM/IEEE 32nd International
+  Conference on}, volume~2, pages 243--246. IEEE, 2010.
 
 \end{thebibliography}
